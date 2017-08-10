@@ -44,4 +44,4 @@ r = bot_login()
 cached_comments = get_cached_comments()
 
 while True:
-	run_bot(r, cached_comments
+	run_bot(r, cached_comments)
