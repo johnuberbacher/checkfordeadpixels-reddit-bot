@@ -1,5 +1,5 @@
 # checkfordeadpixels-bot
-A simple Python Reddit bot to accompany the checkfordeadpixels website. It currently scans a few subreddits and replies to any mentions of "dead pixel" with a pre-defined phrase. He managed to get banned from r/techsupport pretty quickly but is still alive on some other subreddits. Currently scans the 25 newest comments per subreddit then sleeps for about a minute. 
+A simple Python Reddit bot to accompany the checkfordeadpixels website. It currently scans all subreddits and replies to any mentions of "dead pixel" with a pre-defined phrase. He managed to get banned from r/techsupport pretty quickly but is still alive on some other subreddits. Currently scans the 50 newest comments per subreddit then sleeps for about a minute. 
 
 
 ## Install
